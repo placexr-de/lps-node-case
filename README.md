@@ -26,7 +26,7 @@
 
 The case design supports both horizontal and vertical mounting configurations.
 
-<img src="mounting-positions-example.png" style="zoom:20%;" />
+<img src="mounting-positions-example.png" style="zoom:13%;" />
 
 A short usage demonstration is available here: https://www.youtube.com/shorts/OmPvBCfg5j4
 
